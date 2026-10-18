@@ -1,36 +1,26 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# 3000 Studios
 
-## Getting Started
+Music, books, games, and AI tools — built by 3000 Studios.
 
-First, run the development server:
+## Shop
+- Store: https://boughtitonline.com — code **WELCOME10 = 10% off**
+- Tip / support: https://paypal.me/3000Studios
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## Listen
+- Catalog + videos: https://3000studios.vip
+- YouTube: https://www.youtube.com/@3000Studio
+- Spotify: https://open.spotify.com/artist/6VVHgvCMlHO6Ah7dkAIlik
+- 3000 Studios Podcast: https://open.spotify.com/show/033SHVotmOb7vSOUOOcmFI
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## Read
+- Books (The Pond Owner's Handbook, The Pond Care Logbook + the "AI for…" series): https://pondco.online/books
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## Play
+- Thunderdome: AeroStrike (closed beta on Google Play): https://thunderdome.store
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+## Services
+- VoiceToWebsite — a website built from your voice: https://voicetowebsite.com
 
-## Learn More
+---
 
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+This repository is the Next.js source for [3000studios.vip](https://3000studios.vip). Dev: `npm run dev`, edit `app/page.tsx`.
